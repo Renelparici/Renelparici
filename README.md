@@ -1,4 +1,4 @@
-- 👀 Je débute en ce moment des cours en HTML5 et CSS3
+- 👀 <strong>Je débute en ce moment des cours en HTML5 et CSS3</strong>.
 
 - 🌱 J'apprends relativement lentement mais j’avance
 
@@ -8,7 +8,7 @@
 
 
 
-- 👋 Hi, my name is Renelparici
+- 👋 <strong>Hi, my name is Renelparici</strong>.
 - 👀 I am currently starting courses in HTML5 and CSS3
 - 🌱 I'm learning relatively slowly but I'm making progress
 - 💞️ How far I will go as a programmer, I don’t know
