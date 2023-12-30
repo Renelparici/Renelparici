@@ -1,5 +1,5 @@
 - 👋 <strong>Salut, je m'appelle Renelparici</strong>
-- 👀 <strong>Je débute en ce moment des cours en HTML5 et CSS3</strong>.
+- 👀 Je débute en ce moment des cours en HTML5 et CSS3
 - 🌱 J'apprends relativement lentement mais j’avance
 - 💞️ Jusqu’où j’irai en tant que programmeur, je n’en sais rien
 - 📫 Si vous avez de bons conseils à me donner, je suis ouvert, <strong>merci</strong>.
