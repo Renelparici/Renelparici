@@ -9,6 +9,7 @@
 - 🌱 I'm learning relatively slowly but I'm making progress
 - 💞️ How far I will go as a programmer, I don’t know
 - 📫 If you have good advice to give me, I am open, thank you.
+
 <!---
 Renelparici/Renelparici is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
